@@ -1,2 +1,28 @@
-# zheye-v3ts
-Vue3 cli脚手架搭建仿知乎项目;V3新特性+TS系统学习
+# zheye
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 选用css组件库-boostrap
+npm install bootstrap --save
+

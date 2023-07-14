@@ -1,0 +1,2 @@
+1.vscode第三方插件vetur的好用的一个配置,在setting.json配置
+    "vetur.experimental.templateInterpolationService": true,// 把vue按照ts语法转换,所以就可以在template里实现一些比如对象属性方面的代码补全功能
